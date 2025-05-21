@@ -1,6 +1,6 @@
 WPU rencana konten
-video mengenai java script syntax baru frame work
+video mengenai java script syntax baru frame work angular dan react
 video php
 interview
 vlog
-fundamental struktur data dasar
+marvel
