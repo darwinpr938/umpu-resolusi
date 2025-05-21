@@ -3,3 +3,4 @@ video mengenai java script syntax baru frame work
 video php
 interview
 vlog
+fundamental struktur data dasar
